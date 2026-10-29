@@ -1,0 +1,6 @@
+{
+  "name": "Safar India Cabs Vendor",
+  "description": "B2B Taxi and Cab Vendor Management Platform for Safar India Cabs",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
